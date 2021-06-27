@@ -2,12 +2,16 @@ from django.shortcuts import render
 
 
 def index(request):
-    return render(request, 'mainapp/index.html')
+    title = 'магазин'
+    context = {
+        'title': title
+    }
+    return render(request, 'base_site/index.html', context=context)
 
 
-def products(request):
-    return render(request, 'mainapp/products.html')
-
-
-def contact(request):
-    return render(request, 'mainapp/contact.html')
+def contacts(request):
+    title = 'контакты'
+    context = {
+        'title': title
+    }
+    return render(request, 'base_site/contact.html', context=context)
