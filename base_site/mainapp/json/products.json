@@ -1,0 +1,82 @@
+[
+  {
+      "category": "Стулья",
+      "name": "Красивый стул",
+      "image": "products_images/368299c7f1b03b952bef8e4392400d62.jpg",
+      "short_desc": "Просто красив",
+      "description": "",
+      "price": "2599.99",
+      "quantity": 198
+
+  },
+  {
+      "category": "Диваны",
+      "name": "Изогнутый диван",
+      "image": "products_images/dionis-ugol.jpg",
+      "short_desc": "Другое дело",
+      "description": "",
+      "price": "15000.00",
+      "quantity": 50
+
+  },
+  {
+      "category": "Диваны",
+      "name": "Твердый диван",
+      "image": "products_images/brissund-3-mestnyy-divan-krovat-rudorna-temno-seryy__0755264_pe748324_s5.webp",
+      "short_desc": "Недорогой, но долго не просидишь",
+      "description": "",
+      "price": "5999.00",
+      "quantity": 170
+
+  },
+  {
+      "category": "Стулья",
+      "name": "Винтажный стул",
+      "image": "products_images/sns-124.jpg",
+      "short_desc": "Позвольте себе насладиться",
+      "description": "",
+      "price": "9999.00",
+      "quantity": 15
+
+  },
+  {
+      "category": "Стулья",
+      "name": "Стул для гостей",
+      "image": "products_images/tobias-stul-prozrachnyy-hromirovannyy__0727342_pe735614_s5.webp",
+      "short_desc": "Удобный стул по привлекательной цене",
+      "description": "",
+      "price": "499.00",
+      "quantity": 165
+
+  },
+  {
+      "category": "Стулья",
+      "name": "Пластиковый стул",
+      "image": "products_images/124456591465299635.jpg",
+      "short_desc": "Возьмите на природу",
+      "description": "",
+      "price": "99.00",
+      "quantity": 499
+
+  },
+  {
+      "category": "Кровати",
+      "name": "Кровать в стиле лофт",
+      "image": "products_images/кровать_лофт_50hSS4W.jpg",
+      "short_desc": "Для ценителей",
+      "description": "",
+      "price": "20999.00",
+      "quantity": 100
+
+  },
+  {
+      "category": "Кровати",
+      "name": "Классическая кровать 1.0",
+      "image": "products_images/спальня2.jpg",
+      "short_desc": "Впишется в любой интерьер",
+      "description": "",
+      "price": "6000.00",
+      "quantity": 250
+
+  }
+]
